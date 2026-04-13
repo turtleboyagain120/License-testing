@@ -1,0 +1,53 @@
+LICENSE GUIDE - TURTLEBOYAGAIN120 HORROR EMPIRE 🔒 (TEMPLATE VERSION)
+SAVE AS: LICENSE_GUIDE_TEMPLATE.txt - FULL TEXT VERSIONS - REPLACE [YOUR GAME OR PROJECT]
+=======================================================================================================
+
+"TIGL v1.0 - FRIENDLY DEMO"
+© 2026 turtleboyagain120. All rights reserved.
+
+1. Grant of Rights
+The creator grants you a worldwide, non-exclusive, royalty-free license to:
+- Run, play, and experience [YOUR GAME OR PROJECT] for personal or public use.
+- Install, launch, and save progress within the game client or web version.
+- Use in-game assets only as part of ordinary gameplay and performance-capture.
+
+2. Restrictions
+You may not:
+- Redistribute game executable or core files as standalone product
+- Use game's name/logo to suggest endorsement of other works
+- Reverse-engineer, decompile, or extract code/assets for reuse
+
+3. Commercial and Creative Use
+- Stream/record OK on YouTube/Twitch with credit
+- Monetize content if not selling game itself
+- Fan art/short clips OK under fair use
+
+4. Modifications and Derivative Works
+- Local tweaks/keybinds OK for personal play
+- Public mods/remakes require written consent
+
+5. Warranty and Liability
+Provided "AS IS" without warranty. Creator not liable for damages.
+
+6. Termination
+Violation ends license. Cease all use immediately.
+
+7. Updates and Applicable Law
+NC law governs. Disputes in NC courts.
+
+---
+
+"TIGL v1.2 - FORTRESS COMMERCIAL"
+© 2026 turtleboyagain120. All rights reserved.
+
+1. Grant of Rights
+turtleboyagain120 grants worldwide, non-exclusive, non-transferable, non-sublicensable, royalty-free license strictly limited to:
+- Run/play [YOUR GAME OR PROJECT] for personal, non-commercial use only on devices you own
+- Install/launch one copy per device for private play
+- Capture gameplay only for personal archival—no public sharing
+
+[... FULL TEXT CONTINUES WITH [YOUR GAME OR PROJECT] REPLACED IN ALL SECTIONS - SIMILAR FOR OTHERS ...]
+
+=======================================
+TEMPLATE READY: Copy, replace [YOUR GAME OR PROJECT] everywhere needed.
+Works for any game/tool. CLAUSES v2.0 still best starter.

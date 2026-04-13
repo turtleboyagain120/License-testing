@@ -1,0 +1,247 @@
+LICENSE GUIDE - TURTLEBOYAGAIN120 HORROR EMPIRE 🔒
+SAVE AS: LICENSE_GUIDE.txt - FULL TEXT VERSIONS
+=======================================
+
+"TIGL v1.0 - FRIENDLY DEMO" (ORIGINAL FULL TEXT)
+© 2026 turtleboyagain120. All rights reserved.
+
+1. Grant of Rights
+The creator grants you a worldwide, non-exclusive, royalty-free license to:
+- Run, play, and experience The Intruder for personal or public use.
+- Install, launch, and save progress within the game client or web version.
+- Use in-game assets only as part of ordinary gameplay and performance-capture.
+
+2. Restrictions
+You may not:
+- Redistribute game executable or core files as standalone product
+- Use game's name/logo to suggest endorsement of other works
+- Reverse-engineer, decompile, or extract code/assets for reuse
+
+3. Commercial and Creative Use
+- Stream/record OK on YouTube/Twitch with credit
+- Monetize content if not selling game itself
+- Fan art/short clips OK under fair use
+
+4. Modifications and Derivative Works
+- Local tweaks/keybinds OK for personal play
+- Public mods/remakes require written consent
+
+5. Warranty and Liability
+Provided "AS IS" without warranty. Creator not liable for damages.
+
+6. Termination
+Violation ends license. Cease all use immediately.
+
+7. Updates and Applicable Law
+NC law governs. Disputes in NC courts.
+
+---
+
+"TIGL v1.2 - FORTRESS COMMERCIAL" (FULL TEXT)
+© 2026 turtleboyagain120. All rights reserved.
+
+1. Grant of Rights
+turtleboyagain120 grants worldwide, non-exclusive, non-transferable, non-sublicensable, royalty-free license strictly limited to:
+- Run/play The Intruder for personal, non-commercial use only on devices you own
+- Install/launch one copy per device for private play
+- Capture gameplay only for personal archival—no public sharing
+
+2. Absolute Restrictions
+You may NOT:
+- Distribute/share/upload/torrent game files under any circumstances
+- Use The Intruder name/logo/branding/creator identifiers in any context
+- Access/reverse-engineer/decompile/scrape/datamine/extract ANY code/assets
+
+3. Recording Limits
+- 30 seconds maximum consecutive recording
+- 5 minutes total capture lifetime per device
+- Screenshots 1280x720 resolution maximum
+- No editing/compiling/reposting captures
+
+4. Commercial Use PROHIBITED
+- No streaming/YouTube/Twitch/TikTok/public display
+- No monetization/ads/sponsorships/views revenue
+- No fan content/art/commentary/reaction content
+
+5. Modifications FORBIDDEN
+- No config/keybind/graphics/INI edits
+- No local mods/patches/texture packs/resolution scaling
+- No save editing/progress manipulation/achievement unlocks
+- No hacking/cheating/trainers/file alterations
+
+6. Termination
+ANY violation auto-terminates license. Destroy all copies immediately.
+
+7. Governing Law
+North Carolina, USA law exclusively. NC state courts only. No arbitration/class actions.
+
+Provided "AS IS" WITHOUT ANY WARRANTY. Zero liability.
+
+---
+
+"TIGL v1.3 - ULTRA-LOCK" (FULL TEXT)
+© 2026 turtleboyagain120. All rights reserved.
+
+1. Personal Use Only
+- Run The Intruder on 1 device you own for private use only
+- No backups/sharing/cloud saves
+- Delete immediately if you stop playing
+
+2. No Recording
+- No screenshots/video/audio capture
+- No streaming/broadcasting/social media
+- No device screen recording allowed
+
+3. No Modifications
+- No config changes/resolution tweaks
+- No keybind edits/graphics settings
+- No save editing/achievement unlocks
+
+4. No Public Discussion
+- No mentioning game name publicly
+- No sharing experiences online
+- No posting about it anywhere
+
+5. Assets Locked
+- No extracting sounds/models/textures
+- No reverse engineering ANY files
+- No studying code/mechanics
+
+6. Termination
+Any violation = instant license end. Delete ALL copies immediately. NC courts jurisdiction.
+
+7. No Warranty
+Provided "AS IS". Zero liability. All risks yours.
+
+---
+
+"CLAUSES v1.0 - FAN SANDBOX" (FULL ORIGINAL TEXT)
+© 2026 turtleboyagain120. All rights reserved.
+By using The Intruder in any way, you agree to these clauses.
+
+1. You can use and remix it, but not sell it
+You may use The Intruder for personal, non-commercial use.
+You may install and run one copy per device you own.
+You may remix, mod, or adapt The Intruder for non-commercial use.
+You may not sell, monetize, or charge for the game or any remix.
+
+2. If you remix, you must credit and link
+"This is a remix of The Intruder by @turtleboyagain120."
+Link to original game. State unofficial/not endorsed.
+
+3. Do not steal the code
+Study/learn OK. No copying source code/reusing files/rebuilding systems.
+
+4. Never claim it was a real case
+Game is fiction. No presenting as real events/crimes.
+
+5. No liability, provided as-is
+AS IS, no warranties. Not responsible for bugs/distress.
+
+6. If you break rules, lose rights
+Stop using/delete copies. Legal remedies possible.
+
+7. Governing law
+North Carolina law/courts. No money damages.
+
+---
+
+"CLAUSES v2.0 - CREATOR BALANCED" (FULL TEXT)
+© 2026 turtleboyagain120. All rights reserved.
+
+1. Personal & Creative Use
+Play/install/run non-commercial. Remix/mod/adapt OK.
+Study code/mechanics for learning. No selling.
+
+2. Credit & Attribution
+Remixes display: "Remix of The Intruder by @turtleboyagain120 - Original: [site]"
+Link original. State unofficial/not endorsed.
+
+3. Content Creation Allowed
+Stream/record/screenshots OK. Monetize videos w/credit.
+Fan art/commentary/analysis permitted. No asset rips.
+
+4. Code Ethics
+Study OK. No copying core systems wholesale.
+Credit inspiration: "Inspired by The Intruder's [system]"
+
+5. Fiction Disclaimer
+100% fictional. No real harm/deception.
+
+6. Termination & Enforcement
+Violations cancel rights. Delete copies. NC law.
+
+7. As-Is Warranty
+No guarantees. All risks yours.
+
+---
+
+"TIGL-MIT v1.0 - OPEN COMMERCIAL" (FULL TEXT)
+© 2026 turtleboyagain120. All rights reserved.
+Permission granted to any person obtaining a copy to deal in the work without restriction.
+
+Everyone gets:
+- Use/copy/modify/merge/publish/distribute/sublicense
+- Commercial use OK
+- Private/internal company use OK
+
+You must:
+1. Include copyright notice + license in all copies
+2. Credit: "The Intruder elements by turtleboyagain120"
+3. Link original itch.io page in credits
+4. State changes made (if modified)
+
+NO WARRANTY - Provided AS IS. No liability. NC law governs.
+
+=======================================
+WHEN TO USE - ELI5 EMOJI GUIDE 📱👶
+
+"TIGL v1.0" 🎮😊
+✅ FREE itch.io demo ($0) - "Try my scary game!"
+✅ Screenshots/streaming OK w/credit
+✅ Community testers love it
+✅ Build hype phase 🥳
+
+"TIGL v1.2" 🏰😠
+✅ PAID itch.io/Steam ($5+) - "MY horror assets!"
+✅ NO streaming/YouTube EVER
+✅ Maximum protection mode
+✅ Launch fortress 🔒
+
+"TIGL v1.3" 🚫💀
+✅ ULTRA high-value ($20+) - "Nobody touches"
+✅ Zero theft opportunities
+✅ Big streamers/competitors
+✅ Nuclear option ☢️
+
+"CLAUSES v1.0" 🌈🎉
+✅ Fan games/GitHub stars wanted
+✅ Community remixes OK
+✅ "Make your own Intruder!"
+✅ Alpha testers phase 🧪
+
+"CLAUSES v2.0" ⚖️💰
+✅ PERFECT BALANCE - community + $$$
+✅ Streaming OK w/credit
+✅ Remixes OK non-commercial
+✅ Most itch.io games use this 🎯
+
+"TIGL-MIT v1.0" 🚀⭐
+✅ GitHub source drop (stars/forks)
+✅ Commercial use OK (they pay?)
+✅ "Use my code, make me famous"
+✅ Open source cred 💎
+
+DEPLOYMENT MATRIX 📊
+itch.io FREE = Clauses v2.0 😊
+itch.io PAID = TIGL v1.2 🏰
+Steam = TIGL v1.2 🏰
+Website = TIGL v1.2 footer
+GitHub private = TIGL v1.2 🔒
+GitHub public = TIGL-MIT 🚀
+Game popup = TIGL v1.2 popup
+
+EMERGENCY 🆘
+Theft = v1.3 everywhere ☢️
+GitHub ban = new account + v1.2 🔄
+Big ripper = DMCA + v1.3 ⚖️

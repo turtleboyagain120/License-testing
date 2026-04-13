@@ -1,0 +1,27 @@
+MESSAGE TRAVEL SYSTEM License
+
+By using this software, you agree to this license.
+
+1. The Developer maintains the work AS IS without warranties or liability for damages.
+
+2. The User is the person who executes the script and holds no copyright claims.
+
+3. The Owner is the creator who initiated this project.
+
+4. The Owner provides no warranties, guarantees of functionality, or liability for complaints.
+
+License Grant:
+Owner grants limited permission for private coding, messaging, and testing only.
+
+Prohibited Activities:
+You shall not:
+- Sell, distribute, or use commercially.
+- Copy or reproduce.
+- Modify or create derivatives.
+- Publish online or share with others for assistance.
+- Capture screenshots showing more than 100 pixels of source code.
+- Sublicense or transfer these rights.
+
+Disclaimer:
+PROVIDED AS IS WITHOUT ANY WARRANTY OR LIABILITY. May require modifications. Does not cause harm, contain malware, scams, or illegal content.
+

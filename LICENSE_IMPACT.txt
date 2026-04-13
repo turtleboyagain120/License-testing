@@ -1,0 +1,36 @@
+SCRATCH (NO LICENSE) vs TIGL/CLAUSES LICENSE - PLAYER PERSPECTIVE
+====================================================================
+
+Scenario: Player downloads "The Intruder" horror game from itch.io.
+
+**WITHOUT LICENSE (Scratch/Default):**
+Player thinks:
+- "Free game? Mine now."
+- Shares torrent/full zip to Discord/Reddit.
+- Rips models/sounds for own Unity project.
+- Streams whole playthrough, no credit.
+- Mods/reskins publicly, claims "my game".
+- If popup EULA? Ignores/skips.
+
+Risks: Asset theft, no attribution, lost marketing, GitHub forks without credit.
+
+**WITH TIGL/CLAUSES v2.0 (Your Balanced License):**
+Player reads (30s):
+- "Cool, I can play/stream/remix non-commercial w/credit!"
+- ✅ Streams on Twitch: "Playing @turtleboyagain120's Intruder!"
+- ✅ Makes fan mod: "Remix - credit original itch.io".
+- ✅ Records Let's Play (monetized OK if not selling game).
+- ❌ Thinks twice before ripping/sharing files.
+
+Wins:
+- Free marketing (streams drive sales).
+- Community remixes = free promo/ideas.
+- Deters casual thieves.
+- Professional vibe (not "random freeware").
+
+**Net Impact:**
+- Scratch: 100 downloads → 20 rips/shares, 0 credits.
+- Your License: 100 downloads → 50 streams/credits, 5 rips, +hype.
+
+Your licenses = "pro indie dev shield" → more players, less theft, better rep.
+Use CLAUSES v2.0 in-game popup + itch page!
