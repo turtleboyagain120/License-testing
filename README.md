@@ -1,33 +1,49 @@
-# MESSAGE TRAVEL SYSTEM LICENSE
-Copyright © April 2026 turtleboyagain120. All Rights Reserved.
+# [PROJECT_NAME] LICENSE (STRICT v3 - No Loopholes)
+Copyright © [YEAR] [OWNER_NAME]. All Rights Reserved.
 
-NOTICE: By downloading, installing, or using this software, you agree to be bound by the terms and conditions of this License Agreement. If you do not agree to these terms, do not use the software.
-
---------------------------------------------------------------------------------
+By using this software, you agree to these absolute terms. Do not use if you disagree.
 
 1. DEFINITIONS
-* "The Owner" refers to the creator and copyright holder, turtleboyagain120.
-* "The Developer" is the partner of the Owner. The Developer maintains the work without warranties or liability for damages.
-* "The User" refers to any individual or entity executing the software.
-* "The Work" refers to the source code, binaries, and documentation of the Message Travel System.
+\"The Owner\" refers to [OWNER_NAME].
+\"The Developer\" means [DEVELOPER_NAME], explicitly appointed as the legal partner, co-proprietor, and authorized collaborator of The Owner for The Work, assisting exclusively under The Owner’s sole direction, control, and indemnification, sharing all reserved rights proportionally while bound by identical terms, liabilities, and protections herein.
+\"The User\" is any person or entity using the software.
+\"The Work\" is the [PROJECT_NAME] source code, binaries, and documentation.
 
 2. LICENSE GRANT
-The Owner grants the User a limited, non-exclusive, non-transferable license to use the Work for private coding, messaging, and testing purposes only. All other rights are reserved by the Owner.
+Owner grants User a limited, non-exclusive, non-transferable, revocable license to use The Work solely for private coding, messaging, and personal testing. All other rights strictly reserved.
 
 3. PROHIBITED ACTIVITIES
-The User is strictly prohibited from:
-* Selling, distributing, or utilizing the Work for commercial purposes.
-* Copying, reproducing, or redistributing the Work in any form.
-* Modifying, altering, or creating derivative works based on the source code.
-* Publishing the Work online or sharing it with third parties for assistance or support.
-* Capturing or sharing screenshots or videos revealing more than 100 pixels of the original source code.
-* Sublicensing or transferring these rights to any other party.
+User is strictly prohibited from: commercial use or sale; copying, distributing, or sharing; modifying or derivative works; online publication or third-party assistance; screenshots/videos over 100 pixels; sublicensing or transfer; any form of reverse engineering, decompiling, disassembling, or attempting to discover source code.
 
 4. LEGAL SAFEGUARDS
-* No Endorsement: The names of the Owner or Developer shall not be used to endorse or promote products derived from this Work without express written permission.
-* Severability: If any provision of this License is held to be unenforceable, the remaining provisions shall remain in full force and effect.
-* Choice of Law: Any legal action regarding this Work shall be settled in the courts of the Owner’s primary jurisdiction.
-* Entire Agreement: This License constitutes the entire agreement between the parties and supersedes all prior agreements or understandings, written or oral.
+No endorsement without written permission. Invalid provisions do not affect others. Governed exclusively by [JURISDICTION] law. This is the complete agreement.
 
 5. DISCLAIMER & LIMITATION OF LIABILITY
-THE WORK IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. In no event shall the Owner or Developer be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Work. The Owner warrants that the Work does not intentionally contain malware, scams, or illegal content, but requires the User to perform their own validation.
+
+PARAGRAPH 1: THE WORK IS PROVIDED \"AS IS\" AND \"AS AVAILABLE\" WITHOUT ANY WARRANTY OF ANY KIND, EITHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, PERFORMANCE, TITLE, NON-INFRINGEMENT, QUIET ENJOYMENT, OR OTHERWISE ARISING BY LAW, STATUTE, COURSE OF DEALING, OR TRADE USAGE.
+
+PARAGRAPH 2: OWNER AND DEVELOPER EXPRESSLY DISCLAIM ALL WARRANTIES, REPRESENTATIONS, AND GUARANTEES OF ANY KIND, WHETHER ORAL, WRITTEN, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, KNOWN OR UNKNOWN, SUSPECTED OR UNSUSPECTED, DISCLOSED OR UNDISCLOSED, ARISING FROM STATUTE, JUDICIAL DECISION, REGULATION, OR OTHERWISE.
+
+PARAGRAPH 3: IN NO EVENT SHALL OWNER OR DEVELOPER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, MULTIPLES OF DIRECT DAMAGES, CONSEQUENTIAL, OR OTHER DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLES, OR LOSS OR INTERRUPTION OF BUSINESS, REGARDLESS OF LEGAL THEORY, WHETHER CONTRACT, TORT (INCLUDING NEGLIGENCE, STRICT LIABILITY), OR OTHERWISE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+PARAGRAPH 4: OWNER AND DEVELOPER SHALL NOT BE LIABLE FOR ANY ERRORS, DEFECTS, VIRUSES, MALWARE, LOSS OF DATA, OR OTHER HARM RESULTING FROM USER'S DOWNLOAD, INSTALLATION, USE, INTEGRATION, OR INTERACTION WITH THE WORK, INCLUDING COMPATIBILITY ISSUES, PERFORMANCE FAILURES, OR UNAUTHORIZED ACCESS.
+
+PARAGRAPH 5: USER ASSUMES ALL RISK ASSOCIATED WITH THE QUALITY, PERFORMANCE, INSTALLATION, USE, AND RESULTS OBTAINED FROM THE WORK. OWNER AND DEVELOPER PROVIDE NO WARRANTY THAT THE WORK WILL MEET USER'S REQUIREMENTS, OPERATE WITHOUT INTERRUPTION, BE SECURE, ACCURATE, COMPLETE, OR ERROR-FREE, OR THAT ERRORS WILL BE CORRECTED.
+
+PARAGRAPH 6: USER SHALL INDEMNIFY, DEFEND, AND HOLD HARMLESS OWNER AND DEVELOPER, THEIR AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUCCESSORS, AND ASSIGNS FROM AND AGAINST ANY AND ALL CLAIMS, ACTIONS, SUITS, PROCEEDINGS, DEMANDS, DAMAGES, LIABILITIES, OBLIGATIONS, LOSSES, SETTLEMENTS, JUDGMENTS, COSTS, AND EXPENSES (INCLUDING REASONABLE ATTORNEYS' FEES AND COURT COSTS) ARISING FROM OR RELATED TO USER'S USE, MISUSE, BREACH OF LICENSE, OR VIOLATION OF LAW.
+
+PARAGRAPH 7: THE ABOVE LIMITATIONS AND DISCLAIMERS APPLY ABSOLUTELY TO THE MAXIMUM EXTENT PERMITTED BY LAW, WITHOUT ANY EXCEPTION FOR FRAUD, NEGLIGENCE, WILFUL MISCONDUCT, OR OTHERWISE. OWNER AND DEVELOPER SHALL HAVE NO LIABILITY WHATSOEVER. USER ACKNOWLEDGES THESE LIMITS ARE FAIR, FINAL, AND NON-NEGOTIABLE.
+
+PARAGRAPH 8: IN ALL JURISDICTIONS, OWNER AND DEVELOPER'S TOTAL LIABILITY IS ZERO (0.00 USD), REGARDLESS OF PAYMENT AMOUNT OR OTHER FACTORS. THIS LIMIT SURVIVES TERMINATION.
+
+PARAGRAPH 9: THESE DISCLAIMERS, LIMITATIONS, AND INDEMNITIES SURVIVE ANY TERMINATION OR EXPIRATION OF THIS LICENSE INDEFINITELY.
+
+PARAGRAPH 10: USER EXPRESSLY WAIVES ALL STATUTORY, IMPLIED, COMMON LAW, OR OTHER RIGHTS TO ANY WARRANTY, LIABILITY, RECOVERY, OR COMPENSATION, TO THE FULLEST EXTENT PERMITTED BY LAW.
+
+6. TERMINATION
+This License terminates immediately on violation. User must destroy all copies upon termination. These terms survive termination INDEFINITELY.
+
+
+How to use:
+
+Fill: [YEAR] [OWNER_NAME] [DEVELOPER_NAME] [PROJECT_NAME] [JURISDICTION]. Example: 2024, turtleboyagain120, DeveloperPartner, Message Travel System, South Carolina USA.
