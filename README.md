@@ -18,7 +18,7 @@ I am not a lawyer or legal expert. These license templates are for education, fu
 
 **ALWAYS PUT THIS AT THE END OF EVERY LICENSE (ALL IN CAPS):**
 
-`Thanks to turtleboyagain120 and [OTHER PERSON IF YOU NEED OTHER PEOPLE ELSE REMOVE THE "and" AND THIS]`
+`Thanks to turtleboyagain120 and [OTHER PERSON IF YOU NEED OTHER PEOPLE ELSE REMOVE THE "and" AND THIS] []`
 
 <small>https://github.com/turtleboyagain120/License-testing Source: https://github.com/turtleboyagain120/License-testing?tab=License-3-ov-file support him: linktr.ee/turtleboyagain120 []</small>
 
