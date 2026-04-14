@@ -40,3 +40,4 @@
 Failure to comply immediately revokes all permissions. This rule is non-negotiable and survives any modifications.
 
 Source: https://github.com/turtleboyagain120/License-testing?tab=License-3-ov-file)
+#### I will archive all of this on july 6+ and delete it on october 20th or under.
