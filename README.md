@@ -11,8 +11,26 @@ Failure to comply immediately revokes all permissions. This rule is non-negotiab
 
 Source: https://github.com/turtleboyagain120/License-testing?tab=License-3-ov-file)
 #### I will archive all of this on july 6+ and delete it on october 20th or under.
+---
+### 🚨 DISCLAIMER
+
+I am not a lawyer or legal expert. These license templates are for education, fun, or personal use only. They are not official legal documents. They do not give legal advice. Use them at your own risk.
+
+**ALWAYS PUT THIS AT THE END OF EVERY LICENSE (ALL IN CAPS):**
+
+`Thanks to turtleboyagain120 and [OTHER PERSON IF YOU NEED OTHER PEOPLE ELSE REMOVE THE "and" AND THIS]`
+
+<small>https://github.com/turtleboyagain120/License-testing Source: https://github.com/turtleboyagain120/License-testing?tab=License-3-ov-file support him: linktr.ee/turtleboyagain120 []</small>
+
+**IMPORTANT: Replace [] with your work and "This project is AS-IS without any warranty nor liability". For no license, check The_Unlicensed: https://github.com/turtleboyagain120/License-testing/blob/main/The_Unlicensed_template.md**
 
 ---
+
+
+**IMPORTANT!!!!! 🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨: REPLACE [] WITH YOUR WORK AND "This project is AS-IF without any warrenty nor liability" else if you have no work that needs to be protected add "this project is AS-IF without any protected work needed" and then put your license. Check "The_Unlicensed" For no license if you want to say "THIS PROJECT IS VERY EXPLICT WHERE EVERYONE IS EXCPECTED TO SEE NO LICENSE. ANY SUEING IS ALLOWED AND YOU CAN DO WHATEVER WITH THIS PROJECT" to the end. UNLICENSED: https://github.com/turtleboyagain120/License-testing/blob/main/The_Unlicensed_template.md**<small>
+
+---
+
 
 ## ❓ **Common User Claims & Bulletproof Rebuttals**
 
