@@ -20,7 +20,7 @@ THIS DOES NOT GIVE ANY PROHIBITS OR ETC... THAT CANNOT BE TAKEN AWAY FROM THE US
 ---------------
 
 
-(this is a horrible license. DO NOT even use for your project. Even I the owner of this license advice you to not use it.)
+(this is a horrible license. DO NOT even use for your project. Even @turtleboyagain120 the owner of this license advice you to not use it.)
 
 How to use:
 * replace [your state] with your state and remove brackets
@@ -37,3 +37,5 @@ some wise stuff to remember (Judges: this is useless info.):
 * IS IT CONFUSING AND JUDGES WILL MOST LIKELY TERMINATE THE LICENSE, MEANING THE USER WILL WIN.
 * THIS WAS MADE FOR PEOPLE WHO WANT MAX FOR THE USER AND NONE FOR THEM.
 * THIS IS EVEN WORSE THEN THE UNLICENSE ITSELF AND EVEN HAVING NO LICENSE.
+
+https://github.com/turtleboyagain120/License-testing
