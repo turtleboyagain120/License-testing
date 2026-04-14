@@ -1,0 +1,40 @@
+Attribution-ShareAlike License Template v2.0
+
+Copyright (c) [YEAR] [COPYRIGHT HOLDER]
+
+Creative Commons-inspired: Share and adapt freely with attribution and share-alike.
+
+## 1. Permissions
+Use, copy, modify, merge, publish, distribute, sublicense for any purpose.
+
+## 2. Conditions
+- Attribution: Credit [COPYRIGHT HOLDER].
+- ShareAlike: Derivatives under identical license.
+
+## 3. Disclaimer of Warranties and Liability
+THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+This disclaimer extends to all possible damages, including but not limited to loss of data, loss of profits, business interruption, or any incidental, special, exemplary, punitive, or consequential damages of any kind whatsoever, even if advised of the possibility of such damages in advance. The total liability of the copyright holder, authors, or contributors under any provision of this license shall not exceed one thousand United States Dollars (USD $1,000.00), regardless of the cause of action.
+
+Users are solely responsible for determining the appropriateness of using this software for their specific needs and assume all risks associated with its use, including compatibility, performance, security vulnerabilities, and integration with other systems or components.
+
+## 4. Endorsement and Acknowledgment
+By using this software, you acknowledge acceptance of terms, no implied endorsement, risks assumed, responsible use, indemnify [COPYRIGHT HOLDER]. Binding and surviving.
+
+## 5. Compliance Requirements
+- Retain license, notices, attribution.
+- Derivatives: Same license, notice changes.
+- No trademarks implied.
+- Export compliant.
+
+Non-compliance revokes rights.
+
+## When to Use It
+For collaborative projects (art, docs, code) where you want community contributions kept open and attributed. Like GPL/CC for virality. Rating: 8.8/10 for share-alike communities.
+
+## How to Use This License Template
+1. Fill placeholders.
+2. Add attribution boilerplate to derivatives.
+3. Save as LICENSE.
+4. Great for wikis, creative code.
+

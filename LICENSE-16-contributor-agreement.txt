@@ -1,0 +1,31 @@
+Contributor License Agreement (CLA) Template v2.0
+
+Copyright (c) [YEAR] [COPYRIGHT HOLDER]
+
+CLA for open-source project contributors granting rights to project.
+
+## 1. Grant
+Contributor grants [COPYRIGHT HOLDER] perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright/patent license to use contributions.
+
+## 2. Permissions to Contributors/Others
+Standard OSS: modify, distribute under project license.
+
+## 3. Disclaimer of Warranties and Liability
+THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Liability cap $1000. Risks assumed.
+
+## 4. Endorsement and Acknowledgment
+Signers agree irrevocably, warrant authority, indemnify.
+
+## 5. Compliance Requirements
+Sign before contributing. Project retains CLA copies.
+
+## When to Use It
+OSS projects (GitHub) requiring contributor IP grants for relicensing/sales. Rating: 9.3/10 for maintainers.
+
+## How to Use This License Template
+1. Customize [COPYRIGHT HOLDER]/project.
+2. Require sign-off on PRs.
+3. Save as CONTRIBUTOR_LICENSE_AGREEMENT.md.
+

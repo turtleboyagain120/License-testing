@@ -1,0 +1,48 @@
+Academic Research License Template v2.0
+
+Copyright (c) [YEAR] [COPYRIGHT HOLDER]
+
+This Academic Research License grants broad permissions for non-commercial educational and research purposes.
+
+## 1. Permissions
+Anyone is free to use, study, copy, modify, and distribute this software for academic, educational, or non-commercial research purposes. Derivatives must retain this license.
+
+## 2. Restrictions
+- Prohibited: Commercial use, production use, or integration into commercial products.
+- Prohibited: Use in for-profit activities or by commercial entities.
+- Required: Attribution to [COPYRIGHT HOLDER] in publications or derivatives.
+
+## 3. Disclaimer of Warranties and Liability
+THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+This disclaimer extends to all possible damages, including but not limited to loss of data, loss of profits, business interruption, or any incidental, special, exemplary, punitive, or consequential damages of any kind whatsoever, even if advised of the possibility of such damages in advance. The total liability of the copyright holder, authors, or contributors under any provision of this license shall not exceed one thousand United States Dollars (USD $1,000.00), regardless of the cause of action.
+
+Users are solely responsible for determining the appropriateness of using this software for their specific needs and assume all risks associated with its use, including compatibility, performance, security vulnerabilities, and integration with other systems or components.
+
+## 4. Endorsement and Acknowledgment
+By downloading, installing, using, or distributing this software, you hereby acknowledge and agree that:
+- You have read, understood, and accept all terms of this license without reservation.
+- You endorse that the software is provided for academic and research purposes only, and no endorsement, sponsorship, or affiliation with [COPYRIGHT HOLDER] or its affiliates is implied or conferred by this license.
+- You acknowledge the inherent risks in software usage, including potential data loss, security breaches, or unintended behaviors, and waive any right to seek recourse against [COPYRIGHT HOLDER] for such risks.
+- You pledge to use the software responsibly, in compliance with applicable laws, and to indemnify [COPYRIGHT HOLDER] against any third-party claims arising from your misuse.
+This acknowledgment survives termination of use and forms a binding commitment enforceable under applicable law.
+
+## 5. Compliance Requirements
+Users must comply with the following:
+- Retain this full license text in all copies or substantial portions of the software.
+- Attribute [COPYRIGHT HOLDER] in all academic papers, theses, or derivatives (e.g., \"This work uses software licensed by [COPYRIGHT HOLDER] under Academic Research License.\").
+- Ensure downstream recipients receive this license and all associated notices.
+- Refrain from commercial exploitation.
+- Adhere to export control laws; software may not be exported to prohibited destinations without proper authorization.
+Non-compliance may result in immediate revocation of permissions granted herein.
+
+## When to Use It
+Use this license for open-source tools, datasets, or libraries intended for universities, researchers, students, or non-profits. Ideal when you want to foster academic collaboration without commercial exploitation. Rating: 9.0/10 for research-focused projects.
+
+## How to Use This License Template
+1. Replace `[YEAR]` with current year (e.g., 2024).
+2. Replace `[COPYRIGHT HOLDER]` with your name/organization (e.g., University of Example).
+3. For derivatives, update attribution in publications.
+4. Save as `LICENSE` or `LICENSE.md` in your project root.
+5. Review sections for academic protections.
+
