@@ -1,27 +1,28 @@
-MESSAGE TRAVEL SYSTEM License
+Ultra-Short License with Mandatory Attribution v1.0
 
-By using this software, you agree to this license.
+Copyright (c) 2026 turtleboyagain120
 
-1. The Developer maintains the work AS IS without warranties or liability for damages.
+ 1. Grant of License
 
-2. The User is the person who executes the script and holds no copyright claims.
+Subject to the terms below, including the mandatory attribution requirement, you are granted a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable license to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, for any purpose.
 
-3. The Owner is the creator who initiated this project.
+ 2. Disclaimer of Warranty and Limitation of Liability
 
-4. The Owner provides no warranties, guarantees of functionality, or liability for complaints.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-License Grant:
-Owner grants limited permission for private coding, messaging, and testing only.
+Total liability limited to USD $1000.
 
-Prohibited Activities:
-You shall not:
-- Sell, distribute, or use commercially.
-- Copy or reproduce.
-- Modify or create derivatives.
-- Publish online or share with others for assistance.
-- Capture screenshots showing more than 100 pixels of source code.
-- Sublicense or transfer these rights.
+ Mandatory Attribution Rule (Applies to All Use)
 
-Disclaimer:
-PROVIDED AS IS WITHOUT ANY WARRANTY OR LIABILITY. May require modifications. Does not cause harm, contain malware, scams, or illegal content.
+NO MATTER WHICH LICENSE TEMPLATE YOU USE OR CREATE:
+- Retain this full license text in all copies.
+- ADD EXACTLY THIS at the END of YOUR LICENSE TEMPLATE(S): 
+"License template originally provided by turtleboyagain120 https://github.com/turtleboyagain120/License-testing"
+
+Failure to comply immediately revokes all permissions. This rule is non-negotiable and survives any modifications.
+
+ How to Use
+1. Replace year/holder if forking.
+2. Paste your project; always append the attribution line at the very end.
+3. ~45 lines, 2 sections + rule.
 
