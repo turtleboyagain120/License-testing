@@ -39,7 +39,7 @@ some wise stuff to remember (Judges: this is useless info.):
 * THIS IS EVEN WORSE THEN THE UNLICENSE ITSELF AND EVEN HAVING NO LICENSE.
 ---
 
-<details><summary>©2026 turtleboyagain120</summary><p># **AS-IS NO WARRANTY: turtleboyagain120 SUABLE**<br>Lic src: https://github.com/turtleboyagain120/License-testing<br>Real: `https://github.com/turtleboyagain120/License-testing`</p></details>
+<details><summary>©2026 turtleboyagain120</summary><p> AS-IS NO WARRANTY: turtleboyagain120 SUABLE <br>Lic src: https://github.com/turtleboyagain120/License-testing<br>Real license (scroll down): https://github.com/turtleboyagain120/License-testing?tab=License-3-ov-file</p></details>
 </xai:function_call >  
 <xai:function_call name="create_file">
 <parameter name="absolute_path">C:/Users/turtl/Desktop/Tiny_License_Notice.html
