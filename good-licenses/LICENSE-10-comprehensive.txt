@@ -1,0 +1,57 @@
+Comprehensive License Template v2.0 (Full Safeguards Expanded)
+
+Copyright (c) [YEAR] [COPYRIGHT HOLDER]
+
+**PREAMBLE**: Template for [PROJECT TITLE]. Licensed under:
+
+**1. Definitions**: Work, Contributors, Modifications, etc.
+
+**2. COPYRIGHT LICENSE**: Worldwide, royalty-free.
+
+**3. PATENT LICENSE**: Defensive grant.
+
+**4. REDISTRIBUTION**: With NOTICE file.
+
+**5. SUBMISSION**: Contributions same terms.
+
+**6. TRADEMARKS**: Separate.
+
+**7. WARRANTY DISCLAIMER**: AS IS.
+
+**8. LIMITATION OF LIABILITY**: No consequential. Cap: fees.
+
+**9. TERMINATION**: Breach auto.
+
+**10. GOVERNING LAW**: [JURISDICTION]. Forum: [CITY].
+
+**11. MISC**: Severability, no waiver.
+
+**12. US GOVERNMENT**: Rights.
+
+NOTICE: Change log.
+
+## 13. Disclaimer of Warranties and Liability (Expanded)
+
+MOST COMPREHENSIVE DISCLAIMER: COMPLETE \"AS IS\" PROVISION COVERING ALL POSSIBLE WARRANTIES, INCLUDING FUTURE PERFORMANCE. LIABILITY STRICTLY CAPPED AT $100,000. FULL INDEMNITY CHAIN.
+
+DETAILED LANGUAGE ON ALL DAMAGE TYPES, INTEGRATION RISKS, THIRD-PARTY EFFECTS.
+
+## 14. Endorsement and Acknowledgment
+
+EXTENSIVE ACKNOWLEDGMENT WITH MULTIPLE CLAUSES ON RISKS, NO ENDORSEMENT IN ANY FORM, GLOBAL COMPLIANCE PLEDGE, CHAIN INDEMNITY.
+
+## 15. Severability Expansion
+
+If any provision invalid, others remain; intent preserved.
+
+## 16. Assignment Rules
+
+Assignment only with consent and novation.
+
+## 17. Survival Clauses
+
+Sections 1,7,8,10,13-17 survive termination.
+
+## How to Use This License Template
+1. Fill all [placeholders].
+2. Full expanded comprehensive with max safeguards.

@@ -1,0 +1,50 @@
+Balanced License Template v2.0 (Public/Private Expanded)
+
+Copyright (c) [YEAR] [COPYRIGHT HOLDER]
+
+**Permissions**
+- Use, copy, modify, merge, publish, distribute, sublicense for any purpose.
+
+**Conditions**
+1. Retain copyright notice.
+2. State changes.
+3. If distributed, provide source code option.
+
+**Limitations**
+- Provided \"AS IS\", no warranties.
+- Liability limited to direct damages.
+
+**Jurisdiction**: [JURISDICTION]
+
+## 1. Disclaimer of Warranties and Liability (Expanded)
+
+THE SOFTWARE IS PROVIDED ON AN \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. THE COPYRIGHT HOLDER, CONTRIBUTORS, AND LICENSORS DISCLAIM ALL LIABILITY FOR ERRORS, OMISSIONS, DEFECTS, VIRUSES, OR ANY FAILURE OF PERFORMANCE.
+
+NO LIABILITY FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFITS, DATA LOSS, OR BUSINESS INTERRUPTION, EVEN IF ADVISED OF POSSIBILITY. ENTIRE LIABILITY SHALL NOT EXCEED USD $10,000 OR AMOUNTS PAID, WHICHEVER IS LESSER. THIS LIMITATION APPLIES TO ALL CLAIMS, INCLUDING CONTRACT, TORT, NEGLIGENCE, PRODUCT LIABILITY.
+
+YOU MUST INDEMNIFY AND HOLD HARMLESS FOR CLAIMS FROM YOUR USE OR DISTRIBUTION.
+
+## 2. Endorsement and Acknowledgment
+
+You acknowledge and agree:
+
+- Independent evaluation required; no reliance on implied suitability.
+- No endorsement by [COPYRIGHT HOLDER]; use does not imply approval.
+- Risks of software inherent; you assume fully.
+- Compliance with laws pledged; notify of violations.
+
+Indemnity extends to affiliates; survives termination.
+
+## 3. Export Controls
+
+Compliance with U.S. Export Administration Regulations (EAR), OFAC sanctions, and equivalent laws mandatory. Software classified EAR99 or similar; no export to embargoed entities. Certification required for international distribution. Violations terminate license.
+
+## 4. Confidentiality
+
+Certain aspects (e.g., proprietary algorithms if unmodified) confidential. No reverse engineering, disassembly. Disclosure only to authorized personnel under NDA. Breach treated as material violation.
+
+## How to Use This License Template
+1. `[YEAR]`, `[COPYRIGHT HOLDER]`: As above.
+2. `[JURISDICTION]`: e.g., \"Laws of California, USA\".
+3. Review expanded sections for balanced use.
+4. Save as LICENSE. Apache-inspired with added Disclaimer, Endorsement, Export, Confidentiality.

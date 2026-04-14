@@ -1,0 +1,45 @@
+Ultra-Short Public License Template v2.0 (Expanded)
+
+Copyright (c) [YEAR] [COPYRIGHT HOLDER]
+
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
+
+## 1. Disclaimer of Warranties and Liability
+
+THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+This disclaimer extends to all possible damages, including but not limited to loss of data, loss of profits, business interruption, or any incidental, special, exemplary, punitive, or consequential damages of any kind whatsoever, even if advised of the possibility of such damages in advance. The total liability of the copyright holder, authors, or contributors under any provision of this license shall not exceed one thousand United States Dollars (USD $1,000.00), regardless of the cause of action.
+
+Users are solely responsible for determining the appropriateness of using this software for their specific needs and assume all risks associated with its use, including compatibility, performance, security vulnerabilities, and integration with other systems or components.
+
+## 2. Endorsement and Acknowledgment
+
+By downloading, installing, using, or distributing this software, you hereby acknowledge and agree that:
+
+- You have read, understood, and accept all terms of this license without reservation.
+- You endorse that the software is provided for informational and utility purposes only, and no endorsement, sponsorship, or affiliation with [COPYRIGHT HOLDER] or its affiliates is implied or conferred by this license.
+- You acknowledge the inherent risks in software usage, including potential data loss, security breaches, or unintended behaviors, and waive any right to seek recourse against [COPYRIGHT HOLDER] for such risks.
+- You pledge to use the software responsibly, in compliance with applicable laws, and to indemnify [COPYRIGHT HOLDER] against any third-party claims arising from your misuse.
+
+This acknowledgment survives termination of use and forms a binding commitment enforceable under applicable law.
+
+## 3. Compliance Requirements
+
+Users must comply with the following:
+
+- Retain this full license text in all copies or substantial portions of the software.
+- Attribute modifications clearly, e.g., \"This software includes modifications by [YOUR NAME] as of [DATE].\"
+- Ensure downstream recipients receive this license and all associated notices.
+- Refrain from reverse-engineering for competitive purposes.
+- Adhere to export control laws; software may not be exported to prohibited destinations without proper authorization.
+
+Non-compliance may result in immediate revocation of permissions granted herein.
+
+## How to Use This License Template
+1. Replace `[YEAR]` with current year (e.g., 2024).
+2. Replace `[COPYRIGHT HOLDER]` with your name/organization (e.g., John Doe).
+3. For modifications, update attribution in Compliance section.
+4. Save as `LICENSE` or `LICENSE.md` in your project root.
+5. Review new sections: Disclaimer, Endorsement, Compliance for added protections. Expanded for robustness while keeping simplicity.

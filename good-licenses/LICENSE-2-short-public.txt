@@ -1,0 +1,44 @@
+Short Public License Template v2.0 (Expanded)
+
+Copyright (c) [YEAR] [COPYRIGHT HOLDER] ([YOUR EMAIL])
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+## 1. Disclaimer of Warranties and Liability
+
+THE SOFTWARE IS PROVIDED \"AS IS\" AND \"AS AVAILABLE\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. THE AUTHORS, COPYRIGHT HOLDERS, CONTRIBUTORS, AND LICENSORS MAKE NO REPRESENTATIONS OR WARRANTIES WHATSOEVER REGARDING THE SOFTWARE'S SUITABILITY FOR ANY PURPOSE, PERFORMANCE, QUALITY, SECURITY, OR FREEDOM FROM VIRUSES, BUGS, OR ERRORS.
+
+IN NO EVENT SHALL THE AUTHORS, COPYRIGHT HOLDERS, CONTRIBUTORS, OR LICENSORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, PROFITS, OR BUSINESS OPPORTUNITY; OR BUSINESS INTERRUPTION), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, TORT (INCLUDING NEGLIGENCE OR OTHERWISE), OR OTHERWISE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES IN ADVANCE.
+
+Liability is further limited to the greater of USD $1,000 or the amount paid by you for the software, if any. This limitation applies to all claims, disputes, or actions arising under this license.
+
+## 2. Endorsement and Acknowledgment
+
+Your use of the Software constitutes your full acknowledgment and agreement that:
+
+- You have independently evaluated the Software and assume all associated risks, including but not limited to operational failures, data corruption, or incompatibility with other systems.
+- No endorsement, recommendation, approval, or sponsorship by [COPYRIGHT HOLDER], its affiliates, authors, or contributors is implied, expressed, or should be inferred from this license or the Software's availability.
+- You pledge to use the Software ethically and legally, notifying [COPYRIGHT HOLDER] at [YOUR EMAIL] of any known defects or misuse impacting third parties.
+- You waive any moral rights and agree to defend, indemnify, and hold harmless [COPYRIGHT HOLDER] from claims arising from your use, distribution, or modification.
+
+This section is binding and survives any termination or expiration.
+
+## 3. Compliance Requirements
+
+To maintain permissions under this license:
+
+- Include this entire license and copyright notice in all distributions.
+- For modifications, add a prominent note: \"Modified by [YOUR NAME] on [DATE], based on original by [COPYRIGHT HOLDER].\"
+- Distribute source code alongside binaries if requested by recipients.
+- Comply with all applicable international laws, including data protection (e.g., GDPR, CCPA) and anti-circumvention rules.
+- Do not use the Software to infringe third-party rights or engage in illegal activities.
+
+Violation revokes permissions automatically.
+
+## How to Use This License Template
+1. Replace `[YEAR]` with current year.
+2. Replace `[COPYRIGHT HOLDER]` with name/org.
+3. Replace `[YOUR EMAIL]` with contact email (optional but recommended).
+4. Save as LICENSE. Expanded MIT-like with Disclaimer, Endorsement, Compliance for enhanced protections while remaining permissive.

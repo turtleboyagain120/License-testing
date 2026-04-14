@@ -1,0 +1,42 @@
+Basic Private License Template v2.0 (Expanded)
+
+Copyright (c) [YEAR] [COPYRIGHT HOLDER]
+
+Permission to use, copy, modify, and distribute this software for internal business purposes or personal use only is granted, provided that:
+
+1. The above copyright notice remains intact.
+2. No modifications are redistributed without written permission from [COPYRIGHT HOLDER].
+3. This software is not used in competing products.
+
+## 1. Disclaimer of Warranties and Liability
+
+This software is licensed \"AS IS\" and \"WITH ALL FAULTS,\" without any warranties of any kind, whether express, implied, statutory, or otherwise, including but not limited to warranties of title, merchantability, fitness for a particular purpose, non-infringement of intellectual property, or freedom from errors, defects, bugs, or viruses. [COPYRIGHT HOLDER] expressly disclaims any representation or warranty that the software will operate uninterrupted or error-free, or meet your specific requirements.
+
+[COPYRIGHT HOLDER] SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, PUNITIVE, OR OTHER DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, LOSS OF INFORMATION OR DATA, COSTS OF COVER, OR PERSONAL INJURY), REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. Liability is capped at USD $5,000 or the amount you paid for the license, whichever is greater.
+
+You bear full responsibility for testing, validation, and any impacts on your operations or data.
+
+## 2. Endorsement and Acknowledgment
+
+By accepting this license, you:
+
+- Acknowledge that you have conducted due diligence on the software's suitability for your private/internal use.
+- Endorse that no public endorsement, certification, or guarantee is provided by [COPYRIGHT HOLDER], and all risks are assumed by you.
+- Agree to keep all use confidential, not disclosing software details publicly without prior written consent.
+- Indemnify and hold harmless [COPYRIGHT HOLDER] from any claims, losses, or liabilities arising from your internal use, modifications, or distribution (even if limited).
+
+This acknowledgment is a material term and enforceable as a separate contract.
+
+## 3. Force Majeure Events
+
+Neither party shall be liable for delays or failures in performance resulting from acts beyond their reasonable control, including but not limited to acts of God, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, accidents, strikes, or shortages of transportation facilities, fuel, energy, labor, or materials. The affected party must notify the other promptly and resume performance as soon as practicable.
+
+## 4. Third-Party Notices
+
+This software may incorporate or interact with third-party components. You must review and comply with any separate licenses for those components. [COPYRIGHT HOLDER] provides no warranties for third-party materials. Attribution to third parties must be preserved where required.
+
+## How to Use This License Template
+1. `[YEAR]`: Current year.
+2. `[COPYRIGHT HOLDER]`: Your name/company.
+3. Obtain written permission for any redistribution.
+4. Save as LICENSE. Expanded for private use with Disclaimer, Endorsement, Force Majeure, Third-Party Notices for stronger safeguards.

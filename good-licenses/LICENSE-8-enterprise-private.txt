@@ -1,0 +1,42 @@
+Enterprise Private License Template v2.0 (Expanded)
+
+Copyright (c) [YEAR] [COPYRIGHT HOLDER]. Confidential.
+
+**Scope**: License for [YOUR ORGANIZATION] employees/partners to use/modify/deploy [PROJECT TITLE] internally.
+
+**Restrictions**:
+1. No external distribution.
+2. Secure storage.
+3. Attribution internal only.
+
+**Warranties**: Limited to fitness for purpose, 1-year support.
+
+**Liability**: Capped at [AMOUNT] USD.
+
+**IP**: All improvements owned by [COPYRIGHT HOLDER].
+
+**Governing Law**: [JURISDICTION]. Dispute resolution: arbitration [CITY].
+
+**Termination**: 30 days notice.
+
+## 1. Disclaimer of Warranties and Liability (Expanded)
+
+ENTERPRISE SOFTWARE \"AS IS\" WITH NO WARRANTIES BEYOND SPECIFIED. NO IMPLIED WARRANTIES. LIMITED TO [YOUR ORGANIZATION]. DISCLAIMS ALL OTHER LIABILITY FOR PERFORMANCE, SECURITY, INTEGRATION.
+
+CAP ON DAMAGES: [AMOUNT]. NO CONSEQUENTIAL. INDEMNITY FULL.
+
+## 2. Endorsement and Acknowledgment
+
+Full acknowledgment of enterprise risks. No public endorsement. Indemnity comprehensive.
+
+## 3. Audit Rights
+
+Full audit access for compliance.
+
+## 4. Insurance Requirements
+
+$5M coverage required.
+
+## How to Use This License Template
+1. Fill all placeholders.
+2. Enterprise expanded with Disclaimer, Endorsement, Audit, Insurance.

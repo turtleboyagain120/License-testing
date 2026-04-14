@@ -1,0 +1,54 @@
+Robust Public License Template v2.0 (Expanded)
+
+Copyright (c) [YEAR] [COPYRIGHT HOLDER]
+
+**1. Definitions**
+- \"Work\": software and documentation.
+- \"You\": recipient and derivatives.
+- \"Modifications\": changes to the Work.
+
+**2. License Grant**
+Perpetual, worldwide, non-exclusive copyright license to reproduce, distribute, modify the Work.
+
+**3. Conditions**
+- Include license and notice.
+- Modifications marked \"MODIFIED\".
+- No trademarks.
+
+**4. Disclaimers**
+AS IS. No warranties. Max liability: $1,000.
+
+**5. Termination**
+Violate → auto-terminate.
+
+**6. Governing Law**: [JURISDICTION]
+
+## 7. Disclaimer of Warranties and Liability (Expanded)
+
+EXPANDED DISCLAIMER: WORK PROVIDED \"AS IS\" WITHOUT ANY WARRANTY WHATSOEVER. NO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS, NON-INFRINGEMENT, QUIET ENJOYMENT. NO GUARANTEE OF TITLE, QUALITY, OR FUNCTIONALITY. CONTRIBUTORS NOT LIABLE FOR ERRORS, OMISSIONS, OR DEFECTS.
+
+LIABILITY EXCLUDED FOR ALL DAMAGES: DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE, INCLUDING LOST PROFITS, DATA LOSS, BUSINESS INTERRUPTION. CAP AT USD $5,000. APPLIES TO CONTRACT, TORT, STRICT LIABILITY.
+
+INDEMNIFICATION FROM CONTRIBUTORS FOR YOUR VIOLATIONS.
+
+## 8. Endorsement and Acknowledgment
+
+You acknowledge:
+- Full risk assumption.
+- No endorsement or sponsorship.
+- Responsible use pledge.
+- Report vulnerabilities.
+
+Indemnity obligation.
+
+## 9. Audit Rights
+
+Right to audit use/compliance on reasonable notice.
+
+## 10. Severability
+
+Invalid provisions do not affect others.
+
+## How to Use This License Template
+1. Placeholders: [YEAR], holder, [JURISDICTION].
+2. Robust public with added Disclaimer, Endorsement, Audit, Severability.

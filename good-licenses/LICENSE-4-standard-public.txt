@@ -1,0 +1,40 @@
+Standard Public License Template v2.0 (Expanded)
+
+Copyright (c) [YEAR] [COPYRIGHT HOLDER]
+
+1. Grant of License. Subject to terms, [COPYRIGHT HOLDER] grants you perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute the Work and such derivative works.
+
+2. Conditions. 
+   - Include the license and copyright notice in all copies or substantial portions of the Work.
+   - Indicate if you modified the Work and retain acknowledgment of the original author by including \"modified by [YOUR NAME]\".
+
+3. No Trademarks. This license does not grant permission to use the trade names, trademarks, service marks, or product names of [COPYRIGHT HOLDER], except as required for reasonable and customary use in describing and redistributing the Work.
+
+## 4. Disclaimer of Warranties and Liability
+
+THE WORK IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT SHALL [COPYRIGHT HOLDER] OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
+
+This includes, without limitation, any general, special, incidental or consequential damages of any character including, but not limited to, loss of use, loss of goodwill, loss of data, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses, even if such party advised of the possibility of such damages. Total liability shall not exceed USD $2,500.
+
+## 5. Endorsement and Acknowledgment
+
+Use of the Work signifies your:
+
+- Acknowledgment that [COPYRIGHT HOLDER] provides no support, updates, or maintenance unless separately agreed.
+- Endorsement that the Work is experimental or developmental in nature unless stated otherwise, and you accept all performance risks.
+- Agreement to promote responsible usage and report security issues to [COPYRIGHT HOLDER] promptly.
+- Waiver of claims for implied endorsements and indemnity obligation for your derivatives' misuse.
+
+## 6. Force Majeure Events
+
+Performance under this license is excused if delayed or prevented by events beyond reasonable control, such as natural disasters, governmental actions, labor disputes, or supply chain failures. The party affected shall mitigate impacts and notify the other within 5 business days.
+
+## 7. Export Controls
+
+You agree to comply with all applicable export and re-export control laws and regulations, including U.S. EAR/ITAR and similar laws of other jurisdictions. The Work may not be exported to embargoed countries or denied parties. You represent you are not on any prohibited lists.
+
+## How to Use This License Template
+1. `[YEAR]`: Year.
+2. `[COPYRIGHT HOLDER]`: Name/org.
+3. `[YOUR NAME]`: For modifiers.
+4. Save as LICENSE. BSD-like expanded with Disclaimer, Endorsement, Force Majeure, Export Controls for public projects.

@@ -1,0 +1,41 @@
+Commercial License Template v2.0 (Expanded)
+
+Copyright (c) [YEAR] [COPYRIGHT HOLDER], All rights reserved.
+
+**Grant**: Non-exclusive license to use/modify/distribute [PROJECT TITLE] for commercial purposes.
+
+**Terms**:
+1. Retain notice: \"Portions copyright (c) [YEAR] [COPYRIGHT HOLDER]\".
+2. Attribution in docs.
+3. No warranty; liability capped at paid amount.
+4. Governing law: [JURISDICTION].
+5. Indemnify for IP claims.
+
+For source sharing: Offer binary + source on request.
+
+## 1. Disclaimer of Warranties and Liability (Expanded)
+
+LICENSED \"AS IS\" WITHOUT WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS, ACCURACY, NON-INFRINGEMENT. [COPYRIGHT HOLDER] DISCLAIMS RESPONSIBILITY FOR SOFTWARE PERFORMANCE, SECURITY, COMPATIBILITY, OR INTEGRATION.
+
+NO LIABILITY FOR DIRECT/INDIRECT DAMAGES, INCLUDING LOST REVENUES, PROFIT LOSS, DATA CORRUPTION, BUSINESS DISRUPTION, OR THIRD-PARTY CLAIMS. MAX LIABILITY: [PAID AMOUNT] OR USD $50,000. INDEMNITY REQUIRED FOR YOUR BREACH.
+
+## 2. Endorsement and Acknowledgment
+
+Acknowledgment:
+- Commercial viability your responsibility.
+- No [COPYRIGHT HOLDER] endorsement for marketing.
+- Risks accepted; notify defects.
+- Indemnify affiliates.
+
+## 3. Audit Rights
+
+[COPYRIGHT HOLDER] may audit compliance annually upon 30 days notice. You provide records; costs yours if non-compliant.
+
+## 4. Insurance Requirements
+
+Maintain USD $1M general liability insurance naming [COPYRIGHT HOLDER] as additional insured.
+
+## How to Use This License Template
+1. Fill placeholders: [YEAR], holder, [JURISDICTION], [PROJECT TITLE].
+2. [PAID AMOUNT]: Contract fee.
+3. Expanded for commercial with Disclaimer, Endorsement, Audit, Insurance.

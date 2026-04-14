@@ -1,0 +1,39 @@
+Advanced Mixed License Template v2.0 (Expanded)
+
+Copyright (c) [YEAR] [COPYRIGHT HOLDER]
+
+**1. Patent Grant**: License under licensed patents.
+
+**2. Redistribution**: Source/binary with notice.
+
+**3. Contributions**: Pull requests same license.
+
+**4. Trademarks**: No grant.
+
+**5. Notices**: Changes noted.
+
+**6. No Warranty; Indemnity**: AS IS. Indemnify.
+
+**7. Governing Law**: [JURISDICTION]. Severability.
+
+**8. US Gov**: Unlimited rights.
+
+## 9. Disclaimer of Warranties and Liability (Expanded)
+
+FULL DISCLAIMER FOR MIXED USE: \"AS IS\". NO WARRANTIES. LIABILITY CAP $25,000. INDEMNITY FOR PATENTS.
+
+## 10. Endorsement and Acknowledgment
+
+Acknowledgment of mixed risks. No endorsement.
+
+## 11. Assignment Rules
+
+Assignment requires consent.
+
+## 12. Survival Clauses
+
+Certain terms survive termination.
+
+## How to Use This License Template
+1. Fill placeholders.
+2. For mixed OSS/commercial with expanded sections.
