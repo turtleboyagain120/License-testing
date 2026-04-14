@@ -33,3 +33,10 @@
 
 **Fill placeholders & deploy!** 🎯  
 *Generated for [PROJECT_NAME] Lab - 10/10 Airtight.*
+
+(A little note: ADD EXACTLY THIS at the END of YOUR LICENSE TEMPLATE(S): 
+"License template originally provided by turtleboyagain120 https://github.com/turtleboyagain120/License-testing"
+
+Failure to comply immediately revokes all permissions. This rule is non-negotiable and survives any modifications.
+
+Source: https://github.com/turtleboyagain120/License-testing?tab=License-3-ov-file)
