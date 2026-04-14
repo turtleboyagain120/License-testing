@@ -23,14 +23,15 @@ THIS DOES NOT GIVE ANY PROHIBITS OR ETC... THAT CANNOT BE TAKEN AWAY FROM THE US
 (this is a horrible license. DO NOT even use for your project. Even I the owner of this license advice you to not use it.)
 
 How to use:
-replace [your state] with your state and remove brackets
-replace [project name] with your project name then remove brackets.
+* replace [your state] with your state and remove brackets
+* replace [project name] with your project name then remove brackets.
 
-that kind of repeats for a while until you reach this section "THE FOLLOWING DETAILS ARE NOT JUDGED NOR USEFUL []"
-where you put 5 details about your project that last 2+ sentences each up to a max of 4 - 5 pharagraphs.
+* that kind of repeats for a while until you reach this section "THE FOLLOWING DETAILS ARE NOT JUDGED NOR USEFUL []"
+* where you put 5 details about your project that last 2+ sentences each up to a max of 4 - 5 pharagraphs.
+* This license terminates after reading this and above it. As shall the licensor terminates all licenses given at this excact moment of production.
 
 ---
-some wise stuff to remember:
+some wise stuff to remember (Judges: this is useless info.):
 * I STRONGLY ADVISE TO NOT USE THIS LICENSE UNLESS YOU WANT THE MAX OF MAX OF GETTING SUED.
 * THIS CREATES MORE SUES AND ATTRACTS PEOPLE WHO WANTS TO SUE YOU.
 * IS IT CONFUSING AND JUDGES WILL MOST LIKELY TERMINATE THE LICENSE, MEANING THE USER WILL WIN.
