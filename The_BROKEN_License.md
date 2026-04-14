@@ -1,4 +1,4 @@
-# THE UNLICENSED TEMPLATE
+# The_BROKEN_License (DO NOT USE UNUSABLE)
 
 Definitions:
 
