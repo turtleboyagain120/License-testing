@@ -3,6 +3,14 @@
 *Empowering Developers with Absolute Protection*  
 **Copyright © [YEAR] [OWNER_NAME]. All Rights Reserved.**  
 *Last Updated: Auto-generated for unbreakable clarity.*
+-----------
+(A little note: ADD EXACTLY THIS at the END of YOUR LICENSE TEMPLATE(S): 
+"License template originally provided by turtleboyagain120 https://github.com/turtleboyagain120/License-testing"
+
+Failure to comply immediately revokes all permissions. This rule is non-negotiable and survives any modifications.
+
+Source: https://github.com/turtleboyagain120/License-testing?tab=License-3-ov-file)
+#### I will archive all of this on july 6+ and delete it on october 20th or under.
 
 ---
 
