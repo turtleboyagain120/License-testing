@@ -37,5 +37,9 @@ some wise stuff to remember (Judges: this is useless info.):
 * IS IT CONFUSING AND JUDGES WILL MOST LIKELY TERMINATE THE LICENSE, MEANING THE USER WILL WIN.
 * THIS WAS MADE FOR PEOPLE WHO WANT MAX FOR THE USER AND NONE FOR THEM.
 * THIS IS EVEN WORSE THEN THE UNLICENSE ITSELF AND EVEN HAVING NO LICENSE.
+---
 
-https://github.com/turtleboyagain120/License-testing
+<details><summary>©2026 turtleboyagain120</summary><p># **AS-IS NO WARRANTY: turtleboyagain120 SUABLE**<br>Lic src: https://github.com/turtleboyagain120/License-testing<br>Real: `https://github.com/turtleboyagain120/License-testing`</p></details>
+</xai:function_call >  
+<xai:function_call name="create_file">
+<parameter name="absolute_path">C:/Users/turtl/Desktop/Tiny_License_Notice.html
