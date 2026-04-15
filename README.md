@@ -22,7 +22,7 @@ I am not a lawyer or legal expert. These license templates are for education, fu
 
 <small>https://github.com/turtleboyagain120/License-testing Source: https://github.com/turtleboyagain120/License-testing?tab=License-3-ov-file support him: linktr.ee/turtleboyagain120 []</small>
 
-**IMPORTANT: Replace [] with your work and "This project is AS-IS without any warranty nor liability". For no license, check The_Unlicensed: https://github.com/turtleboyagain120/License-testing/blob/main/Turtle_Unlicensed.md**
+**IMPORTANT: Replace [] with your work and "This project is AS-IS without any warranty nor liability". For no license, say "THIS IS NO AS IF, ANYTHING IMPLYING A BUG IS FIRECTLY ON THE OWNER"**
 
 ---
 
