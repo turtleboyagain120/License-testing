@@ -22,7 +22,7 @@ The [Project Name] is authored exclusively by The Owner. Users are granted the r
 
 ### Grants
 
-The Owner hereby grants to You (the User) a perpetual, irrevocable, worldwide, non-exclusive license to the [Project Name], permitting You to:
+The Owner hereby grants to You the User a perpetual, irrevocable, worldwide, non-exclusive license to the [Project Name], permitting You to:
 
 - Sell copies or derivatives;
 - Buy or acquire copies;
