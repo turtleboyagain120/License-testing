@@ -2,20 +2,43 @@
 
 Definitions:
 
-"The Work" is [project name] with liability the user can use if the code breaks.
-"The User" is the person who clicked on this project and needs no proof to sue the owner.
-"The Owner" is the person who made the project. Not protected in any form that this license shows.
+* "The Work" is [project name] with liability the user can use if the code breaks.
+* "The User" is the person who clicked on this project and needs no proof to sue the owner.
+* "The Owner" is the person who made the project. Not protected in any form that this license shows.
 
 The User is the person who has the most protection from any claims of being sued by The Owner.
 [your state] judges are free from anything The Owner "claims" to say about their work being "safe".
 
 DISCLAIMER:
 
-THIS PROJECT IS MANAGED BY THE OWNER. THE JUDGES OF [YOUR STATE IN ALL CAPS] CAN "THROW" YOUR [PROJECT NAME IN ALL CAPS] AROUND. THE PROJECT IS NEITHER AS-IS NOR ANY LIABILITY FOR "THE OWNER." THE OWNER IS NOT INTENDED FOR ANY PURPOSE TO HAVE A LIABILITY AND OR AN ENFORCEABLE LICENSE KNOWN AS "The Unlicense." THIS LICENSE GOES INTO VOID ONCE IT WAS AGREED ON BY ENTERING THE SITE. AS THIS WILL NOT WORK AS A REAL LICENSE INTENDED AS A SUE LIABILITY FOR THE WORK.
-THIS DOES NOT GIVE ANY PROHIBITS OR ETC... THAT CANNOT BE TAKEN AWAY FROM THE USER. THE SOFTWARE/PROJECT IS FREE FROM ANY CHARGES ANY VIRUSES. THIS PROGRAM REASONABLE TO WORK AND NOT BREAK AT ALL ON RUN.
-"THE OWNER" HAS ZERO PROTECTION AT ALL. "THE USER" CAN GO INTO COURT WITHOUT A PICTURE OF PROOF AND SUE THE OWNER. THE MINIMUM MONEY LIMIT TO SUE SOMEONE IS $500
-(any work implied here should be ignored:) THE PROJECT INFO IS NOT REALLY PROOF FOR "THE OWNER" TO PUT THIER LICENSE INTO THIS. THE FOLLOWING DETAILS ARE NOT JUDGED NOR USEFUL []
+this project does not have any liabilitys about the [project name.] herby granted with warrentys, the below license can terminate on sue.
 
+
+THIS PROJECT IS NOT AS IF. [STATE] LAWS DICTATE A TERMINATED LICENSE ON COURT TO BE "ENTITY" ONCE USED. THE PROJECT/TOOL IS FORCE ON DEMAND
+TO CLEAR ITSELF FROM LOGGINGS SAYING IT WAS A "REAL LICESNE." THE GOVERN LAW PREVENTS SUCH A LICENSE TO BE USED WHEN ITS CLEAR THE LICENSE
+GRANTED ITSELF TO BE DELETED. HERBY GRANTED "THE USER" HAS RIGHTS TO PUT "The_BROKEN_license" into WASTE. this is INDEFINITLY gone as a license
+AS the user has "liability" already for their "sue" that without "picture of proof of it happening" they can win the sue herby granted the owner.
+this does not foreverly keep the owner safe NOT AT ALL shall this license already terminated on court but the user giving no prohibits
+that are known. the uncanny ally is cleared for the user without being like the unlicense. Where every lawsuit wins no matter what.
+Any known was in this that the owner can protect himself will be shown on the following:
+
+* states
+* rights
+* the person
+* basic rights
+
+BASICALLY the license broke right now.
+
+
+-------------
+# plain text info
+
+The user owner used this license to possibly get "sued" for the reason of using this license without changing its name, which without the brackets removed
+will cuase a mess in the court. This license was not meant for a mess that bad for a few hundred buck rather then the owner not filling in the templates.
+this is likely because no one will care or maybe the user has to much freedom. not sharing any changes at all or even having the max of the max
+this broken license was made for the intent of a bad license where the user of this license did not cause any issues at all. I do know the license does not
+have any warrentys and not get sued. but I know how bad of a license this will be. farther then not changing the brackets, you have got to be kidding
+of you remove the wise info and use it anyways as a last resort NOT to do.
 
 ---------------
 
