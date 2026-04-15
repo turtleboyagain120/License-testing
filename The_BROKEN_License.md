@@ -34,7 +34,7 @@ This is likely because no one will care or maybe the user has too much freedom. 
 (This is a horrible license. DO NOT even use for your project. Even @turtleboyagain120 the owner of this license advises you to not use it.)
 
 ### How to use:
-* copy and paste all of this text
+* copy and paste this whole license text into your project and name it "LICENSE.MD"
 * Replace [your state] with your state and remove brackets.
 * Replace [project name] with your project name then remove brackets.
 * That kind of repeats for a while until you reach this section "THE FOLLOWING DETAILS ARE NOT JUDGED NOR USEFUL []"
