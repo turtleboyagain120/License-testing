@@ -83,7 +83,7 @@ Licensee indemnifies [OWNER] for all claims from use/distribution/subcontractors
 - Global via WIPO/ICANN.
 
 ## Governing Law Cascade
-Primary: [YOUR JURISDICTION]. Fallback: California, England, Singapore, DIFC.
+Primary: [YOUR JURISDICTION].
 
 ## Miscellaneous (20+ Clauses)
 Severability, no waiver, successors bound, export compliance, no reverse-engineer bounties, survival in perpetuity.
@@ -96,7 +96,7 @@ A: Attribution Examples.
 B: Jurisdiction Templates (US/EU/Asia).
 
 ## Setup Instructions (Universal Default)
-1. Edit [YEAR=2024], [OWNER=Turtle], [JURISDICTION=Delaware USA].
+1. Edit [YEAR=The year right now], [OWNER=your name ], [JURISDICTION=your state].
 2. Place in root: GitHub auto-picks, Replit deploys, PyPI/npm includes.
 3. SPDX: LicenseRef-UltimateCustom-1.0.
 4. Verify: `npx license-checker`.
