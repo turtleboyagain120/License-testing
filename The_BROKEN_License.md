@@ -34,20 +34,11 @@ This is likely because no one will care or maybe the user has too much freedom. 
 (This is a horrible license. DO NOT even use for your project. Even @turtleboyagain120 the owner of this license advises you to not use it.)
 
 ### How to use:
+* copy and paste all of this text
 * Replace [your state] with your state and remove brackets.
 * Replace [project name] with your project name then remove brackets.
 * That kind of repeats for a while until you reach this section "THE FOLLOWING DETAILS ARE NOT JUDGED NOR USEFUL []"
 * Where you put 5 details about your project that last 2+ sentences each up to a max of 4-5 paragraphs.
-
----
-
-Some wise stuff to remember (Judges: this is useless info.):
-* I STRONGLY ADVISE NOT TO USE THIS LICENSE UNLESS YOU WANT THE MAX OF MAX OF GETTING SUED.
-* THIS CREATES MORE SUITS AND ATTRACTS PEOPLE WHO WANT TO SUE YOU.
-* IT IS CONFUSING AND JUDGES WILL MOST LIKELY RULE AGAINST IT, MEANING THE USER WILL WIN.
-* THIS WAS MADE FOR PEOPLE WHO WANT MAX FOR THE USER AND NONE FOR THEM.
-* THIS IS EVEN WORSE THAN THE UNLICENSE ITSELF AND EVEN HAVING NO LICENSE.
-
 ---
 
 ©2026 turtleboyagain120
