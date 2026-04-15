@@ -27,7 +27,7 @@ I am not a lawyer or legal expert. These license templates are for education, fu
 ---
 
 
-**IMPORTANT!!!!! 🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨: REPLACE [] WITH YOUR WORK AND "This project is AS-IF without any warrenty nor liability" else if you have no work that needs to be protected add "this project is AS-IF without any protected work needed" and then put your license. Check "The_Unlicensed" For no license if you want to say "THIS PROJECT IS VERY EXPLICT WHERE EVERYONE IS EXCPECTED TO SEE NO LICENSE. ANY SUEING IS ALLOWED AND YOU CAN DO WHATEVER WITH THIS PROJECT" to the end. UNLICENSED (useless): https://github.com/turtleboyagain120/License-testing/blob/main/Turtle_Unlicensed.md**<small>
+**IMPORTANT!!!!! 🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨: REPLACE [] WITH YOUR WORK AND "This project is AS-IF without any warrenty nor liability" else if you have no work that needs to be protected add "this project is AS-IF without any protected work needed" and then put your license. Check "The_Unlicensed" For no license if you want to say "THIS PROJECT IS VERY EXPLICT WHERE EVERYONE IS EXCPECTED TO SEE NO LICENSE. ANY SUEING IS ALLOWED AND YOU CAN DO WHATEVER WITH THIS PROJECT" to the end then I Recommand using UNLICENSED: https://github.com/turtleboyagain120/License-testing/blob/main/Turtle_Unlicensed.md**<small>
 
 ---
 
