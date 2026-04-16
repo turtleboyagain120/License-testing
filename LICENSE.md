@@ -174,8 +174,15 @@ This License terminates immediately upon breach of any term. Post-termination, a
 # Governing Law
 
 Protected by laws of North Carolina, USA.
+[]
+
 
 # Additional Notices
 - Contact: softwarefreedom.org/services and timmytheonlinegirl+lawsuits@hotmail.com if you got sued.
-- made in 265 Hayden Lane, Cameron, North Carolina, USA
+- Made in 265 Hayden Lane, Cameron, North Carolina, USA.
+- Export controls: Comply with US EAR/ITAR; no distribution to embargoed countries.
+- Trademarks: No use of Owner's name/logo without written permission.
+- Governing version: This v2.0 supersedes prior; check date 2026.
+- Reverse engineering prohibited except as required by law (e.g., interoperability).
+- No support provided; use at own risk—community forums unofficial.
 **END OF LICENSE. BY USING, YOU AGREE TO THESE TERMS.**
