@@ -185,4 +185,4 @@ Protected by laws of North Carolina, USA.
 - Governing version: This v2.0 supersedes prior; check date 2026.
 - Reverse engineering prohibited except as required by law (e.g., interoperability).
 - No support provided; use at own risk—community forums unofficial.
-**END OF LICENSE. BY USING, YOU AGREE TO THESE TERMS.**
+- ## **END OF LICENSE. BY USING, YOU AGREE TO THESE TERMS.**
