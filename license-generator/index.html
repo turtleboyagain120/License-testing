@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang=\"en\">
+<head>
+  <meta charset=\"UTF-8\">
+  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
+  <title>License Generator</title>
+  <link rel=\"stylesheet\" href=\"styles.css\">
+</head>
+<body>
+  <div class=\"container\">
+    <h1>License Generator</h1>
+    <p>Answer 10 questions to generate a custom license from your templates.</p>
+    
+    <div id=\"questionnaire\" class=\"questionnaire\">
+      <div class=\"progress-bar\">
+        <div id=\"progress\" class=\"progress-fill\"></div>
+      </div>
+      <div id=\"questions-container\"></div>
+      <button id=\"generate-btn\" disabled>Generate License</button>
+    </div>
+    
+    <div id=\"loading\" class=\"loading hidden\">Generating...</div>
+    <div id=\"result\" class=\"result hidden\">
+      <h2>Generated License</h2>
+      <p id=\"confidence\"></p>
+      <textarea id=\"license-content\" readonly></textarea>
+      <button id=\"download-btn\">Download LICENSE.md</button>
+    </div>
+  </div>
+  
+  <script src=\"app.js\"></script>
+</body>
+</html>
+

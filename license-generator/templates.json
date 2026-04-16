@@ -1,0 +1,51 @@
+[
+  {
+    \"name\": \"Short Low Risk Basic Open Source (MIT-like)\",
+    \"risk\": \"low\",
+    \"type\": \"permissive\",
+    \"keywords\": [\"open source\", \"library\", \"utility\"],
+    \"content\": \"# Custom Short Low Risk Basic Open Source License\\n\\n## Preamble\\n\\nThis license applies to the software provided (the \\\"Software\\\"). It is designed for low-risk, basic open source use.\\n\\n## Grant of License\\n\\nSubject to the terms herein, Licensor grants you a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute the Software.\\n\\n## Conditions\\n\\n1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\\n\\n2. No trademark license is granted.\\n\\n## No Warranty\\n\\nTHE SOFTWARE IS PROVIDED \\\"AS IS\\\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\\n\\n## Limitation of Liability\\n\\nIN NO EVENT SHALL THE LICENSOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\\n\\nThis license is compatible with MIT License style.\\n\\nCopyright © {year} {owner_name}. All rights reserved.\\n\\nLicense template originally provided by turtleboyagain120 https://github.com/turtleboyagain120/License-testing\",
+    \"placeholders\": [\"{year}\", \"{owner_name}\"]
+  },
+  {
+    \"name\": \"Short Low Risk Public Domain\",
+    \"risk\": \"low\",
+    \"type\": \"public\",
+    \"keywords\": [\"public domain\", \"no restrictions\"],
+    \"content\": \"# Custom Short Low Risk Public Domain License\\n\\n## Preamble\\n\\nThis Software is dedicated to the public domain. No copyright is asserted.\\n\\n## Waiver\\n\\nTo the extent possible under law, the author has waived all copyright and related or neighboring rights to the Software.\\n\\nThis work is published from: United States.\\n\\n## Notice\\n\\nYou can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.\\n\\nUse at your own risk. No warranty provided.\\n\\nCopyright waived by {owner_name}, {year}.\",
+    \"placeholders\": [\"{year}\", \"{owner_name}\"]
+  },
+  {
+    \"name\": \"MIT for Libraries\",
+    \"risk\": \"low\",
+    \"type\": \"permissive\",
+    \"keywords\": [\"library\", \"mit\"],
+    \"content\": \"# Low Risk License: MIT for Libraries\\nMIT License\\n\\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\\n\\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\\n\\nTHE SOFTWARE IS PROVIDED \\\"AS IS\\\", WITHOUT WARRANTY OF ANY KIND.\\n\\nCopyright © {year} {owner_name}\",
+    \"placeholders\": [\"{year}\", \"{owner_name}\"]
+  },
+  {
+    \"name\": \"Perfect Private Use (High Restrictive)\",
+    \"risk\": \"high\",
+    \"type\": \"restrictive\",
+    \"keywords\": [\"proprietary\", \"private\", \"commercial\"],
+    \"content\": \"# [{project_name}] LICENSE (PERFECT v4 - 10/10 No Loopholes)\\nSPDX-License-Identifier: LicenseRef-PERFECTv4-PrivateUse\\n\\nCopyright © {year} {owner_name}. All Rights Reserved.\\n\\nBy using this software, you agree to these absolute terms. Do not use if you disagree.\\n\\n## 1. DEFINITIONS\\n- \\\"The Owner\\\": {owner_name} – Absolute controller with unlimited rights. Owner exempt from all restrictions herein.\\n[... full content truncated for brevity, using the read content]\\n\\nGoverning Law: Exclusive {jurisdiction} courts.\",
+    \"placeholders\": [\"{project_name}\", \"{year}\", \"{owner_name}\", \"{jurisdiction}\"]
+  },
+  {
+    \"name\": \"Plain Easy Read License\",
+    \"risk\": \"medium\",
+    \"type\": \"restrictive\",
+    \"keywords\": [\"simple\", \"eli5\"],
+    \"content\": \"License Rules - Easy Read for [{project_name}].\\n\\nSimple rules...\\n\\nCopyright © {year} {owner_name}.\\n\\nGoverning Law: {jurisdiction}.\",
+    \"placeholders\": [\"{project_name}\", \"{year}\", \"{owner_name}\", \"{jurisdiction}\"]
+  },
+  {
+    \"name\": \"Medium AI Data Restrictions\",
+    \"risk\": \"medium\",
+    \"type\": \"restrictive\",
+    \"keywords\": [\"ai\", \"data\", \"model\"],
+    \"content\": \"# Custom Medium Risk AI Model License with Data Restrictions\\n\\n## Preamble\\n\\nThis license governs use of the AI model (the \\\"Model\\\")...\\n\\nGoverning Law (Delaware)...\\nCopyright {owner_name}, {year}\",
+    \"placeholders\": [\"{owner_name}\", \"{year}\"]
+  }
+]
+

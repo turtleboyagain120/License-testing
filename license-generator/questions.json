@@ -1,0 +1,57 @@
+[
+  {
+    \"id\": \"project_name\",
+    \"text\": \"What is the name of your project?\",
+    \"type\": \"text\"
+  },
+  {
+    \"id\": \"owner_name\",
+    \"text\": \"Your full name or organization as copyright owner?\",
+    \"type\": \"text\"
+  },
+  {
+    \"id\": \"project_type\",
+    \"text\": \"Project type?\",
+    \"type\": \"multiple\",
+    \"options\": [\"Library/Utility\", \"AI/ML Model\", \"Web/App\", \"Security Tool\", \"Financial/Biotech\", \"Content/Art\", \"Other\"]
+  },
+  {
+    \"id\": \"commercial\",
+    \"text\": \"Intended for commercial use/sale?\",
+    \"type\": \"multiple\",
+    \"options\": [\"No, personal/open\", \"Yes, commercial\", \"Unsure\"]
+  },
+  {
+    \"id\": \"risk_level\",
+    \"text\": \"Risk level (liability concerns)?\",
+    \"type\": \"multiple\",
+    \"options\": [\"Low (simple util)\", \"Medium (data/AI)\", \"High (security/finance)\"]
+  },
+  {
+    \"id\": \"open_source\",
+    \"text\": \"Should it be open source/permissive?\",
+    \"type\": \"multiple\",
+    \"options\": [\"Yes, fully permissive\", \"No, restrictive/proprietary\", \"Public domain\"]
+  },
+  {
+    \"id\": \"restrictions\",
+    \"text\": \"Specific restrictions (e.g., no military, attribution)?\",
+    \"type\": \"text\"
+  },
+  {
+    \"id\": \"jurisdiction\",
+    \"text\": \"Governing law jurisdiction (e.g., South Carolina, USA)?\",
+    \"type\": \"text\"
+  },
+  {
+    \"id\": \"year\",
+    \"text\": \"Copyright year (default current)?\",
+    \"type\": \"text\"
+  },
+  {
+    \"id\": \"additional\",
+    \"text\": \"Any other preferences/notes?\",
+    \"type\": \"text\"
+  }
+]
+
