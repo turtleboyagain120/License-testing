@@ -1,145 +1,149 @@
-<h1 align="center">⚖️ THE DEFINITIVE MULTI-LICENSE ARCHIVE</h1>
-<p align="center">
-  <code><b>ARCHIVE-ID:</b> 2026-ALPHA</code> | 
-  <code><b>STATUS:</b> AUTHORIZED</code> | 
-  <code><b>CLEARANCE:</b> PUBLIC</code>
-</p>
+<style>
+  body {
+    background-color: #0d1117;
+    color: #c9d1d9;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+  }
+  h1, h2, h3 {
+    color: #58a6ff;
+    border-bottom: 1px solid #30363d;
+    padding-bottom: 0.3em;
+  }
+  code {
+    background-color: rgba(110, 118, 129, 0.4);
+    padding: 0.2em 0.4em;
+    border-radius: 6px;
+    color: #ff7b72;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0;
+  }
+  th, td {
+    border: 1px solid #30363d;
+    padding: 10px;
+  }
+  th {
+    background-color: #161b22;
+  }
+  blockquote {
+    border-left: 4px solid #d29922;
+    color: #8b949e;
+    padding-left: 15px;
+    margin: 20px 0;
+  }
+</style>
 
----
+# ⚖️ THE DEFINITIVE MULTI-LICENSE ARCHIVE
+## 🏛️ LEGAL MANIFESTO // EDITION 2026.1
 
-## 🗺️ MASTER NAVIGATION CONSOLE
-> [!TIP]
-> **OPERATIONAL HINT:** Click the headers below to expand the legal sub-routines.
-
-<details>
-<summary><b>📂 [ SYSTEM PROTOCOLS 01-05 ]</b></summary>
-<br>
-
-1. [🚨 CRITICAL FOREWARNING](#-critical-legal-forewarning)
-2. [🏛️ LICENSING HIERARCHY](#-the-licensing-hierarchy)
-3. [📖 PROCEDURE & "THE YAP"](#-the-prolixity-of-procedure)
-4. [⚙️ USAGE MODES](#-operational-usage-modes)
-5. [🛠️ THE TRINITY SPECIFICATIONS](#-the-trinity-specifications)
-</details>
-
-<details>
-<summary><b>📂 [ SYSTEM PROTOCOLS 06-11 ]</b></summary>
-<br>
-
-6. [📝 REGULATORY METADATA](#-regulatory-metadata)
-7. [🛡️ SECURITY & DISCLOSURE](#-security--disclosure)
-8. [🛰️ TELEMETRY & PRIVACY](#-telemetry--privacy)
-9. [🏛️ ARCHIVAL PROTOCOLS](#-archival-protocols)
-10. [⚖️ ETHICAL USAGE](#-ethical-usage)
-11. [🔋 RESOURCE EFFICIENCY](#-resource-efficiency)
-</details>
-
-<details>
-<summary><b>📂 [ SYSTEM PROTOCOLS 12-15 ]</b></summary>
-<br>
-
-12. [🚨 EMERGENCY PROTOCOLS](#-emergency-protocols)
-13. [🤝 CONTRIBUTION PROTOCOLS](#-contribution-protocols)
-14. [💎 DONATIONS & PHILANTHROPY](#-donations--philanthropy)
-15. [📨 CONTACT & SUPPORT](#-contact--support)
-</details>
-
----
-
-## 🚨 CRITICAL LEGAL FOREWARNING
-<pre align="center">
-##################################################
-# [ ! ] ERROR: I_AM_NOT_A_LAWYER_EXCEPTION       #
-##################################################
-# The contents of this document do not           #
-# constitute formal legal advice. Compliance     #
-# rests solely on the end-user. Accessing this   #
-# archive constitutes a BINARY AGREEMENT.        #
-##################################################
-</pre>
-
----
-
-## 🏛️ THE LICENSING HIERARCHY
-<div align="center">
-
-
-| FEATURE | <kbd>APACHE 2.0</kbd> | <kbd>LGPL v2.1</kbd> | <kbd>ENHANCED 2.0</kbd> |
-| :--- | :--- | :--- | :--- |
-| **Philosophy** | `Corporate Rigor` | `Shared Commons` | `Maximum Velocity` |
-| **Patent Grants** | `YES (EXPRESS)` | `LIMITED` | `YES (EXPRESS)` |
-| **Commercial** | `OPTIMIZED` | `RESTRICTED` | `OPTIMIZED` |
-| **Liability** | `MAXIMUM` | `STANDARD` | `MAXIMUM` |
-
+<div align="right">
+  <code>HOLDER: turtleboyagain120</code><br>
+  <code>STATUS: AUTHORIZED_PUBLICATION</code><br>
+  <code>LOCALE: NORTH CAROLINA, USA</code>
 </div>
 
 ---
 
-## 🛠️ THE TRINITY SPECIFICATIONS
+### 🗺️ MASTER NAVIGATION MAP
+1. [🚨 CRITICAL FOREWARNING](#-critical-legal-forewarning)
+2. [🏛️ LICENSING HIERARCHY](#-the-licensing-hierarchy)
+3. [📖 PROCEDURE & THE YAP](#-the-prolixity-of-procedure)
+4. [🛠️ THE TRINITY SPECIFICATIONS](#-the-trinity-specifications)
+5. [🛡️ SECURITY PROTOCOLS](#-security--disclosure)
+6. [🚨 EMERGENCY PROTOCOLS](#-emergency-protocols)
+7. [📨 CONTACT & SUPPORT](#-contact--support)
 
-> [!IMPORTANT]
-> ### 💠 [ I. THE APACHE WAY ]
-> **`IDENTITY:`** <kbd>CORPORATE_SHIELD</kbd>
-> 
-> *The gold standard for enterprise environments. Engineered to neutralize patent-trolls and provide maximum commercial immunity.*
+---
 
-> [!NOTE]
-> ### 🧬 [ II. THE LGPL COVENANT ]
-> **`IDENTITY:`** <kbd>LIBRARY_GUARD</kbd>
-> 
-> *The community-first pact. Ensures the core engine remains open while allowing for proprietary linking without code exposure.*
-
+### 🚨 CRITICAL LEGAL FOREWARNING
 > [!CAUTION]
-> ### ⚡ [ III. THE ENHANCED PERMISSIVE ]
-> **`IDENTITY:`** <kbd>MAXIMUM_VELOCITY</kbd>
-> 
-> *The modern high-performance framework. Apache-grade protection with a high-speed "build-and-deploy" mindset.*
+> **I AM NOT A LAWYER.** The contents of this document do not constitute formal legal advice. Compliance rests solely on your shoulders. Using this software is a **binary agreement** to the terms herein.
 
 ---
 
-## 🛡️ SECURITY & DISCLOSURE
-<blockquote>
-  <b>VULNERABILITY REPORTING PROTOCOL:</b><br>
-  If a breach or logic-flaw is detected, <u>do not broadcast</u>.
-  <br><br>
-  <b>ENCRYPTED UPLINK:</b> <a href="mailto:timmytheonlinegirl@hotmail.com"><kbd>INITIATE SECURE EMAIL</kbd></a>
-</blockquote>
+### 🏛️ THE LICENSING HIERARCHY
+
+
+| FEATURE | APACHE 2.0 | LGPL v2.1 | ENHANCED 2.0 |
+| :--- | :--- | :--- | :--- |
+| **PHILOSOPHY** | `Corporate Rigor` | `Shared Commons` | `Maximum Velocity` |
+| **PATENT GRANTS** | ✅ Express | ⚠️ Limited | ✅ Express |
+| **COMMERCIAL** | ✅ Optimized | ⚠️ Restricted | ✅ Optimized |
+| **LIABILITY** | 🛡️ Maximum | 🛡️ Standard | 🛡️ Maximum |
+
+<details>
+<summary><b>▶ CLICK TO VIEW REVISION HISTORY</b></summary>
+
+- ~~Obsolete Version 1.0~~ (Deprecated 2025)
+- [x] Standardized via CSS injection
+- [x] HTML wrapper support added
+</details>
 
 ---
 
-## 🚨 EMERGENCY PROTOCOLS
+### 🛠️ THE TRINITY SPECIFICATIONS
 
-| STEP | ACTION | COMMAND |
-| :--- | :--- | :--- |
-| **01** | **ISOLATE** | `<kbd>KILL_PROCESS --LINK_LIVE</kbd>` |
-| **02** | **REVERT** | `<kbd>GIT_ROLLBACK --STABLE</kbd>` |
-| **03** | **TRACE** | `<kbd>AUDIT_LOGS --DEBUG</kbd>` |
+#### 💠 I. THE APACHE WAY
+`PROTOCOL: CORPORATE_SHIELD`  
+The gold standard for enterprise. Neutralizes patent-trolls and provides maximum commercial immunity for multi-million dollar deployments.
 
----
+#### 🧬 II. THE LGPL COVENANT
+`PROTOCOL: LIBRARY_GUARD`  
+The community-first pact. Core engine remains open, but allows you to link proprietary modules without exposing your "secret sauce."
 
-## 📝 REGULATORY METADATA
-<p align="right">
-  <b>HOLDER:</b> <code>turtleboyagain120</code><br>
-  <b>ESTABLISHED:</b> <code>2026</code><br>
-  <b>LOCALE:</b> <code>NORTH CAROLINA, USA</code><br>
-  <b>STABILITY:</b> <kbd>STABLE_BUILD</kbd>
-</p>
+#### ⚡ III. THE ENHANCED PERMISSIVE
+`PROTOCOL: MAXIMUM_VELOCITY`  
+Modern, bloat-free speed. Apache-grade protection with a high-speed "build-and-deploy" mindset for the modern pioneer.
 
 ---
 
-## 📨 CONTACT & SUPPORT
-<p align="center">
-  <a href="mailto:timmytheonlinegirl@hotmail.com">
-    <b>[ 📨 CLICK HERE TO SEND SUPPORT TICKET ]</b>
-  </a>
-  <br>
-  <sub><i>Direct encrypted path to: timmytheonlinegirl@hotmail.com</i></sub>
-</p>
+### 📖 THE PROLIXITY OF PROCEDURE (THE YAP)
+To engage with this software "properly" is a mandatory ritual. You must navigate to the **absolute nadir** (bottom) of each `LICENSE_*.txt` file.
+
+<br>
+
+Scroll past the jargon to the "How to Apply" section. You are required to manifest those headers into every file you modify. <u><b>Failure to comply terminates the grant.</b></u>
 
 ---
 
-<p align="center">
+### 🛡️ SECURITY & DISCLOSURE
+If a vulnerability is detected, **do not broadcast it.**  
+Follow the encrypted uplink to report findings:  
+👉 [**INITIATE SECURE EMAIL**](mailto:timmytheonlinegirl@hotmail.com)
+
+---
+
+### 🚨 EMERGENCY PROTOCOLS
+*   **STEP 01:** `ISOLATE` — Sever live data streams.
+*   **STEP 02:** `REVERT` — Roll back to stable `vX.X.X`.
+*   **STEP 03:** `TRACE` — Audit logic loops in `STDOUT`.
+
+---
+
+### 📝 REGULATORY METADATA
+```yaml
+Copyright: turtleboyagain120
+Year: 2026
+Jurisdiction: North Carolina, USA
+License_Count: 3 Active / 1 Reference
+```
+
+---
+
+### 📨 CONTACT & SUPPORT
+*   **EMAIL:** [timmytheonlinegirl@hotmail.com](mailto:timmytheonlinegirl@hotmail.com)
+*   **BUGS:** [GitHub Issue Tracker](https://github.com)
+
+---
+
+<div align="center">
   <b>© 2026 turtleboyagain120</b><br>
-  <hr width="50%">
-  <sub><i>MANIFESTED UNDER THE MULTI-LICENSE ARCHIVE PROTOCOL</i></sub>
-</p>
+  <i>PROCESSED UNDER MULTI-LICENSE PROTOCOL</i><br>
+  <small>Hybrid .md + .html + .css</small>
+</div>
