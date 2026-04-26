@@ -47,7 +47,7 @@ This section outlines the workflows required for license compliance and project 
 ---
 
 ### 🛡️ Security & Disclosure
-**Reporting:** Email vulnerabilities to [turtleboyagain120@proton.me](mailto:turtleboyagain120@proton.me).  
+**Reporting:** Email vulnerabilities to [timmytheonlinegirl@hotmail.com](mailto:timmytheonlinegirl@hotmail.com).  
 **Response:** Initial acknowledgment within 48 hours.  
 **Privacy:** Strict no-log policy; user IPs and metadata are not tracked.  
 **Integrity:** Always verify `SHA-256` checksums in the `/release` directory.
@@ -62,7 +62,7 @@ This section outlines the workflows required for license compliance and project 
 ---
 
 ### 📨 Contact & Support
-* **Email:** [turtleboyagain120@proton.me](mailto:turtleboyagain120@proton.me)
+* **Email:** [timmytheonlinegirl@hotmail.com](mailto:timmytheonlinegirl@hotmail.com)
 * **Matrix:** `#turtleboy-legal:matrix.org`
 
 ---
