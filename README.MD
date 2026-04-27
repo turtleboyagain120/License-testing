@@ -23,7 +23,7 @@
 ### 🏛️ Licensing Hierarchy
 
 
-| Feature | Apache 2.0 | LGPL v2.1 | Enhanced 2.0 |
+| Feature | Apache 2.0 | LGPL v2.1 |Chicken dance |
 | :--- | :---: | :---: | :---: |
 | **Philosophy** | Corporate Rigor | Shared Commons | Max Velocity |
 | **Patent Grants** | ✅ Express | ⚠️ Limited | ✅ Express |
