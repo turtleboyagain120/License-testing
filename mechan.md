@@ -2,11 +2,12 @@
 
 **STATED " (c) [Year] [Your Name] (the "Licensor") " ALL RIGHTS SOLELY  ASSERTED**
 
+<PROJECT METADATA & ORIGIN RECORD>
 - <**LICENSE NAME:**> <Machan v1.0>
-- <**OWNERSHIP STATEMENT:**> <© 2026 Timmy ALL RIGHTS SOLELY GIVEN TO Timmy>
+- <**OWNERSHIP STATEMENT:**> <© [year] [name] (the "Licensor") ALL RIGHTS SOLELY ASSERTED>
 - <**EFFECTIVE DATE:**> <April 30, 2026>
-- <**EXACT ORIGIN TIME:**> <16:47:00 EST (4:41 PM)>
-- <**ORIGIN LOCATION:**> <265 hayden lane Cameron, North Carolina, USA>
+- <**EXACT ORIGIN TIME:**> <16:47:00 EST (4:47 PM)>
+- <**ORIGIN LOCATION:**> <265 Hayden Lane, Cameron, North Carolina, USA>
 - <**CONTACT:**> <timmytheonlinegirl@hotmail.com>
 - <**LEGAL STATUS:**> <Proprietary Custom License (Non-OSI)>
 - <**PRIMARY ENFORCEMENT:**> <Self-Executing Termination Clause>
