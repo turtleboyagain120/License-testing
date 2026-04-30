@@ -1,6 +1,17 @@
 # Machan Software License Agreement v1.0 (Comprehensive Edition)
 
-**Copyright (c) [Year] [Your Name] (the "Licensor")**
+**STATED " (c) [Year] [Your Name] (the "Licensor") " ALL RIGHTS SOLELY  ASSERTED**
+
+- <**LICENSE NAME:**> <Machan v1.0>
+- <**OWNERSHIP STATEMENT:**> <© 2026 Timmy ALL RIGHTS SOLELY GIVEN TO Timmy>
+- <**EFFECTIVE DATE:**> <April 30, 2026>
+- <**EXACT ORIGIN TIME:**> <16:41:00 EST (4:41 PM)>
+- <**ORIGIN LOCATION:**> <Spout Springs, North Carolina, USA>
+- <**CONTACT:**> <timmytheonlinegirl@hotmail.com>
+- <**LEGAL STATUS:**> <Proprietary Custom License (Non-OSI)>
+- <**PRIMARY ENFORCEMENT:**> <Self-Executing Termination Clause>
+- <**PROTECTION PROTOCOL:**> <PAC (Patent Anti-Troll Protection)>
+- <**LIABILITY CAP:**> <$1.00 USD>
 
 ## 1. PREAMBLE AND INTENT
 Most licenses restrict freedom through unnecessary limitations. The **Machan v1.0** (the "License") is established to maximize user liberty while maintaining absolute legal immunity for the Licensor. This License governs the use of the software and all associated files (the "Software"). Use, modification, or distribution of the Software constitutes your full acceptance of these terms.
